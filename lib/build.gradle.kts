@@ -17,8 +17,8 @@ plugins {
     `maven-publish`
 }
 
-group = "com.github.andihasan97"
-version = "1.0.0"
+group = "com.andiihasan"
+version = "2.0.0"
 
 repositories {
     // Use Maven Central for resolving dependencies.
@@ -31,12 +31,6 @@ dependencies {
 
     // Use the JUnit 5 integration.
     testImplementation("org.junit.jupiter:junit-jupiter-engine:5.9.1")
-
-    // This dependency is exported to consumers, that is to say found on their compile classpath.
-    api("org.apache.commons:commons-math3:3.6.1")
-
-    // This dependency is used internally, and not exposed to consumers on their own compile classpath.
-    implementation("com.google.guava:guava:31.1-jre")
 }
 
 // Apply a specific Java toolchain to ease working on different environments.

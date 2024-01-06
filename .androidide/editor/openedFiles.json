@@ -1,0 +1,35 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/testlib/lib/src/main/kotlin/com/andihasan7/salamSapa/Sapa.kt",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/testlib/lib/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 10,
+          "index": 626,
+          "line": 19
+        },
+        "start": {
+          "column": 10,
+          "index": 626,
+          "line": 19
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/testlib/lib/build.gradle.kts"
+}
